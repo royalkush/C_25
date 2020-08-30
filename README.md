@@ -1,2 +1,2 @@
-# C_25
-inheritance and image addition 
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
